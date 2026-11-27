@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="signup_info">姓名：%1$s\n邮箱：%2$s\n活动：%3$s\n日期：%4$s</string>
+</resources>

@@ -18,7 +18,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import kotlin.math.roundToInt
 
-/** 十个示例复用页面边距和控件样式，每个变体自己实现业务逻辑。 */
+/** 示例复用页面边距和控件样式，每个变体实现自己的业务逻辑。 */
 abstract class PracticeActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
