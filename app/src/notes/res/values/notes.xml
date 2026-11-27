@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notes_title">Notebook</string>
+    <string name="notes_desc">Write and search notes stored on this device.</string>
+    <string name="notes_search">Search titles and notes</string>
+    <string name="notes_new">New note</string>
+    <string name="notes_results">Saved notes</string>
+    <string name="notes_empty">No notes yet. Create one to get started.</string>
+    <string name="notes_none">No matching notes.</string>
+    <string name="notes_error">Unable to read your saved notes.</string>
+    <string name="notes_edit">Edit note</string>
+    <string name="notes_edit_name">Edit %1$s</string>
+    <string name="notes_delete">Delete</string>
+    <string name="notes_delete_name">Delete %1$s</string>
+    <string name="notes_confirm">Delete “%1$s”?</string>
+    <string name="notes_title_hint">Note title</string>
+    <string name="notes_body_hint">Write your note</string>
+    <string name="notes_title_error">Enter a title for this note</string>
+    <string name="notes_save">Save note</string>
+</resources>

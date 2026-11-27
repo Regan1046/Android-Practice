@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#172F3A</color>
+    <color name="muted">#465E68</color>
+    <color name="accent">#146C63</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="canvas">#EFF5F4</color>
+    <color name="rule">#BCD1CF</color>
+    <style name="PracticeTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/canvas</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+</resources>

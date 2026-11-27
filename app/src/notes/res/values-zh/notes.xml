@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notes_title">随手记</string>
+    <string name="notes_desc">在此设备上编写、保存和搜索笔记。</string>
+    <string name="notes_search">搜索标题或正文</string>
+    <string name="notes_new">新建笔记</string>
+    <string name="notes_results">已保存的笔记</string>
+    <string name="notes_empty">还没有笔记，试试新建一条。</string>
+    <string name="notes_none">没有找到匹配的笔记。</string>
+    <string name="notes_error">无法读取本地笔记。</string>
+    <string name="notes_edit">编辑笔记</string>
+    <string name="notes_edit_name">编辑 %1$s</string>
+    <string name="notes_delete">删除</string>
+    <string name="notes_delete_name">删除 %1$s</string>
+    <string name="notes_confirm">删除「%1$s」？</string>
+    <string name="notes_title_hint">笔记标题</string>
+    <string name="notes_body_hint">写下你的想法</string>
+    <string name="notes_title_error">请输入笔记标题</string>
+    <string name="notes_save">保存笔记</string>
+</resources>
